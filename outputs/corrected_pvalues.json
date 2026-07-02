@@ -1,0 +1,26 @@
+{
+  "SLA gradient (monthly)": {
+    "trend_per_decade": -0.02023,
+    "p_raw": 0.59004,
+    "p_corrected": 0.78647,
+    "N_eff": 99.7,
+    "r1": 0.5952,
+    "n_valid": 393
+  },
+  "SLA weighted (monthly)": {
+    "trend_per_decade": 0.11544,
+    "p_raw": 0.0,
+    "p_corrected": 0.16727,
+    "N_eff": 24.7,
+    "r1": 0.8817,
+    "n_valid": 393
+  },
+  "GS velocity max (unified)": {
+    "trend_per_decade": 0.02476,
+    "p_raw": 0.23837,
+    "p_corrected": 0.46551,
+    "N_eff": 143.6,
+    "r1": 0.4451,
+    "n_valid": 374
+  }
+}

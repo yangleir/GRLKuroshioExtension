@@ -1,0 +1,15 @@
+{
+  "c_R_35N_cm_s": 1.74,
+  "c_R_40N_cm_s": 0.81,
+  "c_R_ratio_35_40": 2.13,
+  "tau_R_35N_yr": 14.6,
+  "tau_R_40N_yr": 31.1,
+  "tau_R_ratio_40_35": 2.13,
+  "steady_state_lag_deg": 0.31,
+  "phi_half_rate_N": 39.8,
+  "time_to_OE_front_yr": 419.0,
+  "rate_at_37N_deg_dec": 0.157,
+  "rate_at_39N_deg_dec": 0.116,
+  "vel_max_centroid_ratio": 2.63,
+  "f_ratio_35_37": 1.0492
+}

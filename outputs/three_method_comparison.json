@@ -1,0 +1,14 @@
+{
+  "Velocity max": {
+    "trend_per_decade": 0.50844,
+    "p_value": 0.0
+  },
+  "Velocity centroid": {
+    "trend_per_decade": 0.14208,
+    "p_value": 0.0
+  },
+  "SLA gradient": {
+    "trend_per_decade": -0.14251,
+    "p_value": 0.00063
+  }
+}

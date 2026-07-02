@@ -1,0 +1,18 @@
+{
+  "Gradient (original)": {
+    "trend_per_decade": -0.02023,
+    "p_value": 0.59004
+  },
+  "Gradient (detrended)": {
+    "trend_per_decade": 0.33006,
+    "p_value": 0.0
+  },
+  "Weighted (original)": {
+    "trend_per_decade": 0.11544,
+    "p_value": 0.0
+  },
+  "Weighted (detrended)": {
+    "trend_per_decade": 0.19222,
+    "p_value": 0.0
+  }
+}

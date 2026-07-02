@@ -1,0 +1,26 @@
+{
+  "Velocity max": {
+    "trend_per_decade": 0.55489,
+    "p_value_raw": 0.0,
+    "p_value_corrected": 0.0,
+    "N_eff": 45.5,
+    "r1_residual": 0.7832,
+    "n_valid": 374
+  },
+  "Velocity centroid": {
+    "trend_per_decade": 0.21106,
+    "p_value_raw": 0.0,
+    "p_value_corrected": 0.00023,
+    "N_eff": 33.9,
+    "r1_residual": 0.8337,
+    "n_valid": 374
+  },
+  "SLA gradient": {
+    "trend_per_decade": -0.1425,
+    "p_value_raw": 0.00063,
+    "p_value_corrected": 0.06096,
+    "N_eff": 104.9,
+    "r1_residual": 0.5369,
+    "n_valid": 348
+  }
+}
