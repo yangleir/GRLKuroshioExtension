@@ -15,8 +15,10 @@ Using 31 years (1993–2024) of satellite altimetry with three independent jet-t
 | Figure 3 (self-concealing mechanism profiles) | `scripts/p9c_figB_front_fix.py` | `figB_v3.*` |
 | Figure 4 (anomaly-method comparison, monthly SLA) | `scripts/p2b_method_comparison.py` | `fig2_method_comparison.png`, `outputs/method_comparison_stats.json` |
 | Figure 5 (three tracking methods, unified period) | `scripts/p10_unified_velocity.py` | `fig_unified_three_methods.*`, `outputs/unified_velocity_stats.json` |
-| Figure S1 (Coriolis-mediated adjustment framework) | `scripts/p13_coriolis_framework.py` | `figS1.*`, `outputs/coriolis_framework_stats.json` |
-| Figure S2 (ADT vs SLA gradient tracking) | `scripts/p17_adt_vs_sla_gradient.py` | `figS2_adt_vs_sla.*`, `outputs/adt_vs_sla_corrected.json` |
+| Figure S1 (ADT vs SLA gradient tracking) | `scripts/p17_adt_vs_sla_gradient.py` | `figS2_adt_vs_sla.*`, `outputs/adt_vs_sla_corrected.json` |
+| Figure S2 (global SLA trend map) | `scripts/p0_global_sla_trend_monthly.py` | global SLA trend map |
+| Figure S3 (Coriolis-mediated adjustment framework) | `scripts/p13_coriolis_framework.py` | `figS1.*`, `outputs/coriolis_framework_stats.json` |
+| Figure S4 (endpoint sensitivity of velocity trends) | `scripts/p18_endpoint_velocity.py` | `figS4_endpoint_velocity.*`, `outputs/endpoint_velocity_stats.json`, `outputs/ke_axis_unified.nc` |
 | Autocorrelation-corrected p-values (GS, SLA-weighted, monthly gradient) | `scripts/p15_corrected_pvalues.py` | `outputs/corrected_pvalues.json` |
 | Wind stress curl / zero-curl line | `scripts/p4_wind_curl_analysis.py` | `outputs/wind_curl_stats.json` |
 | Sverdrup gyre boundary trend | `scripts/p7_centroid_sverdrup.py` | `outputs/sverdrup_stats.json` |
