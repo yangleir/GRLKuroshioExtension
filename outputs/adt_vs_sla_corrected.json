@@ -1,0 +1,16 @@
+{
+  "ADT gradient (absolute field, steepest descent)": {
+    "trend_per_decade": 0.48203,
+    "p_raw": 0.0,
+    "p_corrected": 0.00013,
+    "N_eff": 39.2,
+    "n_valid": 348
+  },
+  "SLA gradient (anomaly field)": {
+    "trend_per_decade": -0.1425,
+    "p_raw": 0.00063,
+    "p_corrected": 0.06096,
+    "N_eff": 104.9,
+    "n_valid": 348
+  }
+}
